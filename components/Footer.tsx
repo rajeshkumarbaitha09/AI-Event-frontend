@@ -133,7 +133,7 @@ export default function Footer() {
 
       <a
         className="footer-pill"
-        href="https://www.linkedin.com/in/kumarashish0217/"
+        href="https://www.linkedin.com/in/rajesh-rajak-4aa5672/"
         target="_blank"
         rel="noopener noreferrer"
         onMouseEnter={() => setHovered(true)}
@@ -152,7 +152,7 @@ export default function Footer() {
         {/* Text */}
         <div className="fp-text">
           <span className="fp-label">Developed by</span>
-          <span className="fp-name">Ashish Gupta</span>
+          <span className="fp-name">Rajesh Rajak</span>
         </div>
 
         {/* Live dot */}
